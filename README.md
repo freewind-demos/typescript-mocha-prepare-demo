@@ -1,7 +1,7 @@
-TypeScript Mocha Chai Testing Demo
-==================================
+TypeScript Mocha "mocha-prepare" Demo
+=====================================
 
-Use mocha and chai to write tests with typescript.
+We need to run some async code before any tests.
 
 ```
 npm install
